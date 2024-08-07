@@ -23,3 +23,6 @@ nav_enabled: true
 **Note**
 
 ***1.消费者线程的读取速率要远大于生产者线程，目的是确保生产一组数据后在最短时间内消费掉，最佳的状态是FIFO中只有一组数据，因此FIFO不用很大***
+
+
+代码：https://github.com/ledoen/RealtimeCurvePlot
