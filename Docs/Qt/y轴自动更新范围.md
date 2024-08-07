@@ -3,6 +3,7 @@ layout: default
 title: y轴自动更新范围
 nav_enabled: true
 parent: Qt开发随记
+nav_order: 3
 ---
 
 代码
