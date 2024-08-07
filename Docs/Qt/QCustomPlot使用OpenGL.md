@@ -29,7 +29,7 @@ parent: Qt开发随记
     context.data()->functions()->glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 ```
 
-4.打开qcustomplot中的opengl。输入以下语句
+4. 打开qcustomplot中的opengl。输入以下语句
 ``` c++
     customPlot->setOpenGl(true);
 ```
