@@ -2,6 +2,7 @@
 title: 使用QCustomPlot开发实时曲线
 layout: default
 nav_enabled: true
+parent: Qt开发随记
 ---
 
 ## 1. 架构设计
