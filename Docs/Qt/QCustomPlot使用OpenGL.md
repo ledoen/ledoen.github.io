@@ -2,6 +2,7 @@
 layout: default
 title: QCustomPlot使用OpenGL
 nav_enabled: true
+parent: Qt开发随记
 ---
 
 1. 修改项目CMakeLists.txt文件，加入：
