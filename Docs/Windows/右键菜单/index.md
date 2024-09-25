@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: 右键菜单相关
 parent: Windows系统相关
 nav_enabled: true
