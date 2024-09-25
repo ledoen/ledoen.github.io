@@ -3,6 +3,7 @@ title: Typero增加右键菜单
 layout: default
 parent: 右键菜单相关
 grand_parent: Windows系统相关
+nav_order: 1
 ---
 Typero增加右键菜单比较简单，新建一个Typero.reg文件，将以下内容拷贝粘贴进去，打开运行一下，重启电脑即可
 ``` bash
