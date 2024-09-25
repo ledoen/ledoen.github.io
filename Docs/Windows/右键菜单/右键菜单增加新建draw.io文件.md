@@ -3,6 +3,7 @@ title: 右键菜单增加新建draw.io文件
 layout: default
 parent: 右键菜单相关
 grand_parent: Windows系统相关
+nav_order: 3
 ---
 
 # 右键菜单增加新建draw.io文件
