@@ -7,8 +7,10 @@ grand_parent: Windows系统相关
 
 # vs code增加右键菜单
 **方法**
+
 新建vscode.reg文件，复制以下内容到文件，保存打开，重启电脑即可
 **使用**
+
 选用代码文件，右键即可使用vscode打开
 
 ```bash
