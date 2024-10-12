@@ -1,6 +1,7 @@
 ---
 title: CAN总线开发
 layout: default
+parent: 嵌入式开发相关
 nav_enabled: true
 has_children: true
 ---
