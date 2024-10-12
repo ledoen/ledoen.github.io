@@ -3,6 +3,7 @@ layout: default
 title: CAN总线链路层
 nav_enabled: true
 parent: CAN总线开发
+grand_parent: 嵌入式开发相关
 nav_order: 1
 ---
 
