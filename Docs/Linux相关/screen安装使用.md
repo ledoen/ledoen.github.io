@@ -1,7 +1,7 @@
 ---
 title: screen安装使用
 layout: default
-parent: Linux运维
+parent: Linux运维相关
 ---
 
 # screen安装使用
