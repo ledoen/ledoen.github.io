@@ -1,7 +1,7 @@
 ---
 title: 安装openssh-server
 layout: default
-parent: linux运维相关
+parent: Linux运维相关
 ---
 
 # 安装openssh-server
