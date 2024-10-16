@@ -17,6 +17,7 @@ grand_parent: 开发辅助
   - 在Actions下，添加secret，使用之前的token内容
 3. 编写workflow文件
   在仓库根目录下新建`.github/workflows/example.yml`文件，内容如下
+
 ```bash
 name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
@@ -49,4 +50,5 @@ jobs:
       - name: clean
         run: make clean
 ```
+
 4. 菜单栏进入Actions，开启运行，完成后将自动发布编译好文件
