@@ -1,3 +1,10 @@
+---
+title: imx6s内核移植
+layout: default
+parent: imx6系列
+grand_parent: 嵌入式开发相关
+---
+
 # 内核移植过程记录
 
 ## 一、硬件平台
